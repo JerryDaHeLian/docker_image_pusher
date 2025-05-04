@@ -1,2 +1,2 @@
 nginx
-vllm-openai
+vllm/vllm-openai
