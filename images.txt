@@ -1,3 +1,4 @@
 nginx
 vllm/vllm-openai
 vllm/vllm-openai:v0.7.2
+python:latest
