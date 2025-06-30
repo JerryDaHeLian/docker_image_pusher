@@ -3,4 +3,9 @@
 #vllm/vllm-openai:v0.7.2
 #python:3.13.3
 #infiniflow/ragflow:v0.19.1
-docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+#docker.elastic.co/elasticsearch/elasticsearch:8.11.3
+hub.icert.top/opensearchproject/opensearch:2.19.1
+infiniflow/infinity:v0.6.0-dev3
+infiniflow/sandbox-executor-manager:latest
+mysql:8.0.39
+valkey/valkey:8
